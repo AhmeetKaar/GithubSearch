@@ -9,7 +9,7 @@ environment:
 dependencies:
   bloc: ^8.1.0
   github_search_library:
-    path: ../github_search_library # modularization
+    path: ../github_search_library
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.1
